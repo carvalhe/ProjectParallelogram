@@ -1,2 +1,0 @@
-# ProjectParallelogram
-rhythm game
